@@ -1,0 +1,15 @@
+{
+  "name": "NFT #1",
+  "description": "Первый NFT из коллекции.",
+  "image": "https://tonutils.com/images/nft1.jpg",
+  "attributes": [
+    {
+      "trait_type": "Цвет",
+      "value": "Синий"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Уникальный"
+    }
+  ]
+}
