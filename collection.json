@@ -1,0 +1,18 @@
+{
+  "name": "Название NFT Коллекции",
+  "description": "Описание коллекции и ее особенности.",
+  "image": "https://tonutils.com/images/collection.png",
+  "external_url": "https://tonutils.com",
+  "seller_fee_basis_points": 500, // Комиссия создателя (в базисных пунктах, 1% = 100 б.п.)
+  "fee_recipient": "0:123456789abcdef...", // Адрес для получения комиссий
+  "attributes": [
+    {
+      "trait_type": "Тема",
+      "value": "Цифровое искусство"
+    },
+    {
+      "trait_type": "Автор",
+      "value": "Имя автора"
+    }
+  ]
+}
