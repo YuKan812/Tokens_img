@@ -1,10 +1,10 @@
 {
-  "name": "Название NFT Коллекции",
+  "name": "Light & Darkness",
   "description": "Описание коллекции и ее особенности.",
   "image": "https://github.com/YuKan812/Tokens_img/blob/main/avatar_collection.jpg?raw=true",
-  "external_url": "https://tonutils.com",
+  "external_url": "https://github.com/YuKan812/Tokens_img/blob/main/",
   "seller_fee_basis_points": 150, 
-  "fee_recipient": "0:123456789abcdef...", 
+  "fee_recipient": "0:f4cb2c134f49445a6e301ccffd249c12e20d506025bb6e0e1e513c451562a535", 
   "attributes": [
     {
       "trait_type": "Тема",
