@@ -1,0 +1,15 @@
+{
+  "name": "Сияющий Рыцарь",
+  "description": "NFT #3",
+  "image": "https://github.com/YuKan812/Tokens_img/blob/main/IMG1.jpg?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Цвет",
+      "value": "Синий"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Уникальный"
+    }
+  ]
+}
