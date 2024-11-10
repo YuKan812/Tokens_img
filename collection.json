@@ -1,7 +1,7 @@
 {
   "name": "Light & Darkness",
   "description": "Описание коллекции и ее особенности.",
-  "image": "https://github.com/YuKan812/Tokens_img/blob/main/avatar_collection.jpg?raw=true",
+  "image": "https://github.com/YuKan812/Tokens_img/blob/main/avatar_collection.jpg",
   "external_url": "https://github.com/YuKan812/Tokens_img/blob/main/",
   "seller_fee_basis_points": 500, 
   "fee_recipient": "0:f4cb2c134f49445a6e301ccffd249c12e20d506025bb6e0e1e513c451562a535", 
